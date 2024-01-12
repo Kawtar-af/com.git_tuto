@@ -7,3 +7,8 @@ git init
 git remote add origin git@github.com:Kawtar-af/com.git_tuto.git
 
 # création de dépôt 
+## Rédiger un commit
+'''
+L'évolution du commit 
+
+'''
