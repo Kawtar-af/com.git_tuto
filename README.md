@@ -10,5 +10,5 @@ git remote add origin git@github.com:Kawtar-af/com.git_tuto.git
 ## Rédiger un commit
 '''
 L'évolution du commit 
-
+Description de notre commit avec des informations sur l 'évolution du projet 
 '''
